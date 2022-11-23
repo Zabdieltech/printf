@@ -1,7 +1,3 @@
-/*Author: Zabdiel Uti & Omosomi Hassan 
- * Date: 23rd of November, 2022.
- */
-
 #include "main.h"
 
 /**
